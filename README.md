@@ -44,8 +44,11 @@ In this app, you will be creating a “choose your own adventure” game similar
 ```
 
 >
-        <p>
-        <img src="1.png" width="350" />
-        <img src="2.png" width="350" /> 
-        <img src="3.png" width="350" /> 
-        </p>
+## Screenshots
+
+<p>
+  <img src="1.png" width="350" />
+  <img src="2.png" width="350" /> 
+  <img src="3.png" width="350" />
+</p>
+
