@@ -42,7 +42,8 @@ In this app, you will be creating a “choose your own adventure” game similar
             choice2: "End", choice2Destination: 0
         )      
 ```
-        
+
+>
         <p>
         <img src="1.png" width="350" />
         <img src="2.png" width="350" /> 
